@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SankirtaV2",
+            "request": "launch",
+            "mainClass": "SankirtaV2",
+            "projectName": "tiesiu_sankirta_b433e165"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "tiesiu_sankirta_b433e165"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sankirta",
+            "request": "launch",
+            "mainClass": "Sankirta"
+        }
+    ]
+}
